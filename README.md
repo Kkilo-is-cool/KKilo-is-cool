@@ -1,4 +1,5 @@
 fuck you to [nate](https://discord.com/users/1491107478237216949) and SchoolCHRBKhacker
+
 I won't be active anymore and this name is dead thanks to everyone on this journey I guess
 
 # WEBSITE UNBLOCKER
