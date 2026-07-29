@@ -1,6 +1,5 @@
 fuck you to [nate](https://discord.com/users/1491107478237216949) and SchoolCHRBKhacker
 
-https://github.com/user-attachments/assets/98d8ee04-9b94-494a-a642-d809aa9750b0
 
 # WEBSITE UNBLOCKER
 
