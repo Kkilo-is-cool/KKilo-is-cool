@@ -1,16 +1,21 @@
-## Hi there 👋
+fuck you to [nate](https://discord.com/users/1491107478237216949) and SchoolCHRBKhacker
 
-<!--
-**Kkilo-is-cool/KKilo-is-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/user-attachments/assets/98d8ee04-9b94-494a-a642-d809aa9750b0
 
-Here are some ideas to get you started:
+# WEBSITE UNBLOCKER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+javascript:(function(){var destination = prompt("Destination (Don't include http/https: ");window.location='https://translate.google.com/translate?sl=auto&tl=en&u='+'https://'+destination})();
+```
+
+# MY GITHUB STATS:
+
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=minesraft-v2&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://raw.githubusercontent.com/minesraft-v2/github-stats/generated/languages.svg)
+
+# MY DISCORD STATUS:
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1475600405164593162)](https://discord.com/users/1475600405164593162)
+  
