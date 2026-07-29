@@ -10,7 +10,7 @@ javascript:(function(){var destination = prompt("Destination (Don't include http
 
 # MY GITHUB STATS:
 
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=minesraft-v2&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Kkilo-is-cool&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/minesraft-v2/github-stats/generated/languages.svg)
 
