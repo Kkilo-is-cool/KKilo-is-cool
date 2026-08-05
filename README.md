@@ -13,9 +13,3 @@ javascript:(function(){var destination = prompt("Destination (Don't include http
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Kkilo-is-cool&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/minesraft-v2/github-stats/generated/languages.svg)
-
-# MY DISCORD STATUS:
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1475600405164593162)](https://discord.com/users/1475600405164593162)
-  
